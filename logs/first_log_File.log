@@ -1,0 +1,13 @@
+19.01.2024 16:12:30,381 INFO  loginpage_locators:40 - username enterd
+19.01.2024 16:12:30,501 INFO  loginpage_locators:43 - password entered
+19.01.2024 16:12:31,563 INFO  loginpage_locators:46 - button clicked
+19.01.2024 16:13:35,030 INFO  loginpage_locators:40 - username enterd
+19.01.2024 16:13:35,205 INFO  loginpage_locators:43 - password entered
+19.01.2024 16:13:36,680 INFO  loginpage_locators:46 - button clicked
+19.01.2024 16:13:37,217 INFO  homepage_locators:35 - profile icon clicked.
+19.01.2024 16:13:39,076 INFO  homepage_locators:38 - log out clicked.
+20.01.2024 15:27:32,087 INFO  loginpage_locators:43 - username enterd
+20.01.2024 15:27:32,382 INFO  loginpage_locators:47 - password entered
+20.01.2024 15:27:32,520 INFO  loginpage_locators:51 - button clicked
+20.01.2024 15:27:34,251 INFO  homepage_locators:36 - profile icon clicked.
+20.01.2024 15:27:36,415 INFO  homepage_locators:40 - log out clicked.
